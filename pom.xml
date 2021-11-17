@@ -5,6 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
  <groupId>br.com.brscan.sdk.teste</groupId>
   <artifactId>teste</artifactId>
+  <version>1.0.0</version>
   <dependencies>
      <dependency>
       <groupId>com.squareup.okhttp3</groupId>
